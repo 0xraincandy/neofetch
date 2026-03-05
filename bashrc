@@ -1,1 +1,1 @@
-neofetch --backend kitty --source /home/remi/.config/neofetch/png/Seija.png
+neofetch --backend kitty --source ~/.config/neofetch/png/Seija.png
